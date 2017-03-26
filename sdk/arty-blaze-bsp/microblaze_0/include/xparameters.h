@@ -901,3 +901,8 @@
 /******************************************************************/
 
 #endif  /* end of protection macro */
+/* Xilinx EDK In-system and Serial Flash Library (XilIsf) User Settings */
+#define XPAR_XISF_FLASH_FAMILY	5
+#define XPAR_XISF_INTERFACE_AXISPI	1
+#define XPAR_XISF_INTERFACE_AXISPI	1
+
